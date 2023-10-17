@@ -2,7 +2,7 @@
 - 👀 I’m interested in fishing /hiking and GYM Fitness
 - 🌱 I’m currently learning Data Science at UC
 - 💞️ I’m looking to collaborate on using SQl to clean data
-- 📫 How to reach me ...email me please : 371710170@qq.com
+- 📫 How to reach me ...email me please : 371710170@qq.com / robertdong666@gmail.com 
 
 <!---
 PengDong6666/PengDong6666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
